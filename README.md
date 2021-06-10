@@ -4,7 +4,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://linkedin.com/in/dimitry-diatlov" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white" alt="dimitry-diatlov" /></a>
+	<a href="https://linkedin.com/in/dimitry-diatlov" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"" alt="dimitry-diatlov" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
