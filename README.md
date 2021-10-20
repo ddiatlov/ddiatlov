@@ -12,7 +12,7 @@
 	<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a>
 	<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /> </a>
-		<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="gatsby" width="40" height="40" /> </a>
+		<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="gatsby" width="25" height="40" /> </a>
 	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 	<br>
