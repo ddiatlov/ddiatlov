@@ -12,7 +12,6 @@
 	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a>
 	<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /> </a>
 		<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="gatsby" width="25" height="40" /> </a>
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 	<br>
 	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo-vector.svg" alt="mssql" width="40" height="40" /> </a>
@@ -21,7 +20,6 @@
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 	<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
 	<br>
-	<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddiatlov&label=Profile%20views&color=0e75b6&style=flat" alt="ddiatlov" /> </p>
