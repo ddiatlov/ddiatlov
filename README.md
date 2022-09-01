@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitry</h1>
-<h3 align="left">I am a web developer and a database administrator who loves new challenges, clean and beautiful design, and strong coffee</h3>
+<h3 align="left">I am a web developer and a database administrator who loves new challenges, clean and beautiful design, and good coffee</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
