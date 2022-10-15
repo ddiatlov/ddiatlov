@@ -11,7 +11,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" /> </a>
 <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="gatsby" width="25" height="40" /> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="c#" width="40" height="40" /> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="40" height="40" /> </a>
 <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 <br>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo-vector.svg" alt="mssql" width="40" height="40" /> </a>
