@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitry</h1>
-<h3 align="left">Attention, tech enthusiasts! 🚀 Seeking a software maven well-versed in CAD, engineering, SQL databases, and the enchanting realms of C#, TypeScript, and JavaScript? Look no further! Let's join forces and unleash our coding wizardry to create digital marvels that'll leave jaws dropped and minds blown. Ready to rock the tech world? Let's make some coding magic happen! 🎩✨</h3>
+<h3 align="left">
+I'm a versatile software developer with experience in CAD software, engineering, SQL databases, and software development using C#, TypeScript, and JavaScript. I am committed to delivering high-quality results, possess strong problem-solving skills, and have a keen eye for detail.
+</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
