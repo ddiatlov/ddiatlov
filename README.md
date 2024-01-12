@@ -25,7 +25,7 @@ I'm a versatile software developer with experience in CAD software, engineering,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="c#" width="40" height="40" />
   </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo-vector.svg" alt="mssql" width="40" height="40" />
